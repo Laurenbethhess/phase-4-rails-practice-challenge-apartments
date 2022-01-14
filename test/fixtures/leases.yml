@@ -1,0 +1,11 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  apartment: one
+  tenant: one
+  rent: 1
+
+two:
+  apartment: two
+  tenant: two
+  rent: 1
